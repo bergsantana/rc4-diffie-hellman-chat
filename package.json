@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@nestjs/serve-static": "^4.0.2",
+    "big-integer": "^1.6.52"
+  }
+}
